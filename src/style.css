@@ -11,7 +11,7 @@ body {
 #NavBar {
     position: sticky;
     top: 0;
-    padding: 0px;
+    padding-bottom: 5px;
     overflow: hidden;
     background-color: black;
     width: 100%;
